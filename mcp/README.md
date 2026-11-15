@@ -6,12 +6,14 @@ and give each one a page here with its setup and rules.
 | Server | What it connects | Page |
 |---|---|---|
 | Figma MCP Bridge | Live Figma and FigJam files: read, edit, motion presets | [figma-mcp-bridge.md](figma-mcp-bridge.md) |
+| Jitter MCP (official, beta) | Your Jitter projects: create, edit motion, import, screenshot, export | [jitter-mcp.md](jitter-mcp.md) |
 | rive-mcp (third-party, freeware) | Rive `.riv` files without the editor | [stack/rive.md](../stack/rive.md#rive-mcp) |
 | GetLayers | Design tools that end in a prompt (SVG to 3D, gradients, shaders) | [learn/motion-presets.md](../learn/motion-presets.md#6-ai-prompt-and-component-libraries) |
 
 ## Add one to Claude Code
 ```bash
-claude mcp add <name> -- <command> [args...]
+claude mcp add <name> -- <command> [args...]          # a local server
+claude mcp add --transport http <name> <url>          # a remote server, e.g. Jitter
 claude mcp list
 ```
 

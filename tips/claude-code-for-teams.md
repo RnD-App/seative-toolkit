@@ -6,6 +6,6 @@
   [Claude motion skill](../stack/claude-motion-skill.md)), shared through a repo like go-commands.
 - **Plan first.** For big changes, ask Claude for a plan before it edits anything.
 - **Review the diff** before you `go pr`. You own what you push, not Claude.
-- **MCP servers** (Figma MCP Bridge, Rive, GetLayers …): agree as a team before adding one, and write the setup in
+- **MCP servers** (Figma MCP Bridge, Jitter, Rive, GetLayers …): agree as a team before adding one, and write the setup in
   [mcp/](../mcp/README.md).
 - **No secrets in prompts.** Don't paste API keys or client data into a chat.

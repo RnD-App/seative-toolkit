@@ -51,6 +51,7 @@ See [learn/motion-presets.md](learn/motion-presets.md).
 
 ## MCP servers
 - [Figma MCP Bridge](https://github.com/gethopp/figma-mcp-bridge): live Figma and FigJam for Claude, no API limits · [page](mcp/figma-mcp-bridge.md)
+- [Jitter MCP](https://help.jitter.video/en/articles/17600405-connect-jitter-to-your-ai-assistant-with-the-mcp-server): official, beta, server `https://mcp.jitter.video` · [page](mcp/jitter-mcp.md)
 - All MCP servers we use: [mcp/](mcp/README.md)
 
 ## Chrome extensions
