@@ -17,6 +17,7 @@ links and short team rules. Everything links to the source; nothing here is a co
 |---|---|
 | [repos/](repos/) | Our apps and the tools they are built on: seaMotion, Fig-to-SeaMotion, Fig-to-Rive, go-commands, Toolcraft, DialKit |
 | [extensions/](extensions/) | Chrome extensions the team uses: Wappalyzer, 3D Mview Extractor |
+| [mcp/](mcp/) | MCP servers for Claude Code: Figma MCP Bridge, Rive, GetLayers |
 | [stack/](stack/) | What every website uses: Next.js, GSAP, SplitText, Lenis, Three.js, Rive, ffmpeg |
 | [guides/](guides/) | Step by step: onboarding, GitHub, Vercel, Netlify, launch checklist, Rive with an agent |
 | [prompts/](prompts/) | AI prompts for full websites and single sections |
