@@ -22,6 +22,7 @@ gh auth login
 - `.env.example`: every environment variable the project needs, with no real values.
 - `.nvmrc`: the Node.js version.
 - `CLAUDE.md`: run commands, stack and rules for Claude Code.
+- `DESIGN.md` (websites): how it should look, see [learn/design-md.md](../learn/design-md.md).
 
 ## Never commit
 `.env` files, API keys, tokens, client data, large videos (link them or use a release).

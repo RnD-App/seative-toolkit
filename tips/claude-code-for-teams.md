@@ -1,6 +1,8 @@
 # Claude Code for teams
 
 - **Every repo gets a `CLAUDE.md`**: how to run, build and test it, the stack, and our rules. Claude reads it every time.
+- **Websites also get a `DESIGN.md`**: the client's colours, type, components and motion presets. See
+  [learn/design-md.md](../learn/design-md.md).
 - **Same commands for everyone.** Install [go-commands](../repos/go-commands.md) with `--owner RnD-Products`.
 - **Shared skills.** House rules that repeat across projects belong in a skill (see
   [Claude motion skill](../stack/claude-motion-skill.md)), shared through a repo like go-commands.
