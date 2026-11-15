@@ -49,6 +49,10 @@ Every link the team uses, grouped. Each one has its own page where we have more 
 ## Learn motion
 See [learn/motion-presets.md](learn/motion-presets.md).
 
+## MCP servers
+- [Figma MCP Bridge](https://github.com/gethopp/figma-mcp-bridge): live Figma and FigJam for Claude, no API limits · [page](mcp/figma-mcp-bridge.md)
+- All MCP servers we use: [mcp/](mcp/README.md)
+
 ## Chrome extensions
 - [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) · [page](extensions/wappalyzer.md)
 - [3D Mview Extractor](https://chromewebstore.google.com/detail/3d-mview-extractor/lmmcjebneeokfgaobecnijjhgjokmbeh) · [page](extensions/3d-mview-extractor.md)
