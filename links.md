@@ -46,6 +46,11 @@ Every link the team uses, grouped. Each one has its own page where we have more 
 - [Scrolltide components](https://www.scrolltide.co/components): animated component prompts (paid plans)
 - [GetLayers AI tools](https://www.getlayers.ai/tools): free design tools that end in a prompt, MCP
 
+## DESIGN.md (design systems for AI agents)
+- [getdesign.md](https://getdesign.md): browse DESIGN.md files by industry · [page](learn/design-md.md)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) · [awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design)
+- [Google Stitch DESIGN.md spec](https://stitch.withgoogle.com/docs/design-md/overview)
+
 ## Learn motion
 See [learn/motion-presets.md](learn/motion-presets.md).
 

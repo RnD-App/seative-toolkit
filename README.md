@@ -9,6 +9,7 @@ links and short team rules. Everything links to the source; nothing here is a co
 2. [guides/github-setup.md](guides/github-setup.md): GitHub, branches and pull requests
 3. [prompts/website-create-prompt.md](prompts/website-create-prompt.md): start a new website
 4. [learn/motion-presets.md](learn/motion-presets.md): learn motion and easing
+   · [learn/design-md.md](learn/design-md.md): DESIGN.md files by industry
 5. [links.md](links.md): every link in one place
 
 ## Map
@@ -21,7 +22,7 @@ links and short team rules. Everything links to the source; nothing here is a co
 | [stack/](stack/) | What every website uses: Next.js, GSAP, SplitText, Lenis, Three.js, Rive, ffmpeg |
 | [guides/](guides/) | Step by step: onboarding, GitHub, Vercel, Netlify, launch checklist, Rive with an agent |
 | [prompts/](prompts/) | AI prompts for full websites and single sections |
-| [learn/](learn/) | Motion presets, easing and where to learn more |
+| [learn/](learn/) | Motion presets, easing, DESIGN.md files by industry, and where to learn more |
 | [tips/](tips/) | Short team rules, one page per topic |
 | [claude-commands/](claude-commands/) | Shared Claude Code commands (points to go-commands) |
 | [templates/](templates/) | Copy this to add a new tool or link |

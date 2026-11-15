@@ -15,6 +15,7 @@ Build a [type of site, e.g. portfolio / agency landing page / product launch] fo
 
 Sections: [Hero, About, Work, Services, Contact]
 Style: [colours, fonts, mood, 2–3 reference sites]
+Design system: follow DESIGN.md in the project root (create it first from the style above if it doesn't exist)
 Copy: [paste real copy, or say "write placeholder copy that fits the brand"]
 
 Realtime editing with DialKit:
